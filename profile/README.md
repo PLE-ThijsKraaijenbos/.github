@@ -1,4 +1,4 @@
-# FreeWrite — PLE project - Thijs Kraaijenbos
+# FreeWrite — PLE project
 
 This github organisation contains all repositories for **FreeWrite**, a school project developed by Thijs Kraaijenbos.
 
