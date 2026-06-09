@@ -13,6 +13,3 @@ The **frontend** of the FreeWrite app, built with React Native and TypeScript us
 
 ### [FreeWrite-Django](https://github.com/PLE-ThijsKraaijenbos/FreeWrite-Django)
 The **backend** of the FreeWrite app, built with Django REST Framework (DRF). It handles the API, business logic, and data storage for the application.
-
-### [ple-logboek-django](https://github.com/PLE-ThijsKraaijenbos/ple-logboek-django)
-A separate Django application used to maintain the **project logbook** for the school assignment. It tracks progress, reflections, and milestones throughout the project.
